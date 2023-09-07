@@ -19,7 +19,7 @@ function App() {
       w-full h-screen flex items-center">
         <div className="backdrop-blur-lg backdrop-filter bg-white bg-opacity-30 
                       rounded-lg shadow-lg w-[500px] mx-auto p-5 text-center">
-          <h1 className="text-gray-900 text-5xl font-bold mb-8">To-do List</h1>
+          <h1 className="text-gray-900 text-5xl font-bold mb-8">To-do list</h1>
           <form onSubmit={handleForm}>
             <input required className="border-2 rounded-lg bg-purple-100 border-purple-700 w-3/4 p-3 
             placeholder:text-gray-500 mb-5" 
